@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Colors for health tracker App
+-->
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_blue">#3F51B5</color> <!-- Modern Blue -->
+    <color name="light_blue">#C5CAE9</color> <!-- Light Blue for Background -->
+    <color name="dark_blue">#303F9F</color> <!-- Darker Shade for Highlights -->
+
+    <!-- Neutral Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="dark_gray">#616161</color> <!-- Neutral Dark Text Color -->
+    <color name="light_gray">#BDBDBD</color> <!-- Soft Gray for Subtle UI -->
+
+    <!-- Accent Colors -->
+    <color name="accent_green">#4CAF50</color> <!-- Optional Success/Accent Green -->
+    <color name="error_red">#F44336</color> <!-- Error Indicator Red -->
+</resources>
