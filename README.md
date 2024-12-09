@@ -1,5 +1,9 @@
 # **Personal Health Tracker App**
 
+## **By [Alish Gosai](https://alishgosai.com)**
+
+
+
 A user-friendly Android application designed to help users monitor their health by tracking personal details, exercise routines, diet habits, and hydration levels. This app prioritizes secure data handling and provides a clean, intuitive user experience.
 
 ---
